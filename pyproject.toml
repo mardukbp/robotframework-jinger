@@ -24,7 +24,7 @@ jinger = "JingeR.jinger:cli"
 name = "JingeR"
 
 [tool.pdm]
-package-type = "library"
+distribution = true
 
 [tool.pdm.dev-dependencies]
 dev = [
