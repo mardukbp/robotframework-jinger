@@ -12,6 +12,7 @@ dependencies = [
 requires-python = ">= 3.8.2"
 readme = "README.md"
 license = {text = "Apache 2.0"}
+urls = { homepage = "https://github.com/mardukbp/robotframework-jinger" }
 
 [build-system]
 requires = ["flit_core>=3.2,<4"]
