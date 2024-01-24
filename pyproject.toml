@@ -1,6 +1,6 @@
 [project]
 name = "robotframework-jinger"
-version = "1.0.0"
+version = "1.0.1"
 description = "Generate data-driven Robot Framework testcases using Jinja templates"
 authors = [
     {name = "Marduk Bolaños, Mohamad Nour Almujarkesh", email = "marduk.bolanos@imbus.de"},
