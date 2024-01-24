@@ -20,6 +20,9 @@ build-backend = "flit_core.buildapi"
 [project.scripts]
 jinger = "JingeR.jinger:cli"
 
+[tool.flit.module]
+name = "JingeR"
+
 [tool.pdm]
 package-type = "library"
 
