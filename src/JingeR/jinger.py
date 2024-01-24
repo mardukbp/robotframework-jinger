@@ -31,7 +31,7 @@ def import_module_from_path(module_path: Path):
 
 
 @click.group()
-@click.version_option(package_name="robotframework_jinger")
+@click.version_option(package_name="robotframework_jinger", prog_name='jinger')
 def cli():
     """
     jinger generates data-driven test cases using Jinja templates
